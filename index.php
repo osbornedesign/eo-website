@@ -1,52 +1,97 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Eric Osborne Design</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Eric Osborne Design">
-    <meta name="author" content="Eric Osborne Design">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,600" rel="stylesheet">
-  </head>
-  <body>
-    <script>document.body.className += ' fade-out';</script>
-    <div class="cover-container">
-      <div class="body-container">
-        <header class="p-32-x  m-0-32">
-          <img src="img/logo-icon.png" class="nav-logo" alt="Eric Osborne Design">
-        </header>
+<?php include 'elements/header.php'; ?>
+
+  <main>
+    <div class="body-container">
+      <div class="row">
+        <div class="m-32-x-x-x">
+          <h2>I'm Eric Osborne, a product designer based out of Charlotte, NC.</h2>
+        </div>
       </div>
 
-      <main>
-        <div class="body-container">
-          <div class="row">
-            <div class="m-32-x-x-x">
-              <h2>I'm Eric Osborne, a product designer based out of Charlotte, NC.</h2>
+      <div class="m-64-x-x-x">
+        <div class="row-16">
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="truelearn-website.php">
+                <img class="project-thumbnail" src="img/tl-web-thumb.png" />
+              </a>
             </div>
           </div>
 
-          <div class="m-64-x-x-x">
-            <div class="row">
-              <div class="m-32-x-x-x">
-                <h3>Coming Soon.</h3>
-                <h4>Contact:
-                  <a href="mailto:ericosbornedesign@gmail.com?Subject=Hello!"> ericosbornedesign@gmail.com</a>
-                </h4>
-              </div>
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="truelearn-app.php">
+                <img class="project-thumbnail" src="img/tl-app-thumb-1.png" />
+              </a>
             </div>
           </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="progress.php">
+                <img class="project-thumbnail" src="img/progress-thumb.png" />
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="bus-app-16.php">
+                <img class="project-thumbnail" src="img/teespring.png" />
+                <p>Dreamforce Bus App '16</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="bus-app-17.php">
+                <img class="project-thumbnail" src="img/dropbox.png" />
+                <p>Dreamforce Bus App '17</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="arcgis.php">
+                <img class="project-thumbnail" src="img/dropbox.png" />
+                <p>MapAnything for ArcGIS</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="mapything-fleet.php">
+                <img class="project-thumbnail" src="img/dropbox.png" />
+                <p>MapAnything Fleet</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="aurora.php">
+                <img class="project-thumbnail" src="img/dropbox.png" />
+                <p>Aurora</p>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
+              <a href="oneliance.php">
+                <img class="project-thumbnail" src="img/dropbox.png" />
+                <p>Oneliance Website</p>
+              </a>
+            </div>
+          </div>
+
         </div>
-      </main>
+      </div>
     </div>
+  </main>
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="js/vendors/jquery-slim.min.js"><\/script>')</script>
-        <script>
-          $(function() {
-              $('body').removeClass('fade-out');
-        });
-    </script>
-  </body>
-</html>
+  <?php include 'elements/footer.php'; ?>
