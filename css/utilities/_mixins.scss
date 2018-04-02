@@ -1,0 +1,12 @@
+@mixin transition ($sec) {
+	-webkit-transition: $sec;
+	-moz-transition: $sec;
+	-ms-transition: $sec;
+	-o-transition: $sec;
+	transition: $sec;
+}
+
+//border-radius
+//transform
+//flex
+//box-shadow

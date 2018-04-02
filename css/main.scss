@@ -1,0 +1,161 @@
+//===================
+//  Imports
+//===================
+
+@import 'utilities/variables';
+@import 'utilities/mixins';
+@import 'utilities/spacing';
+@import 'utilities/grid';
+
+@import 'components/buttons';
+
+
+/* Links */
+
+a {
+  color: #2E343B;
+  &:focus, &:hover {
+    color: #2E343B;
+  }
+}
+
+/* Custom default button */
+
+.btn-secondary {
+  color: #333;
+  text-shadow: none;
+  /* Prevent inheritance from `body` */
+  background-color: $white;
+  border: .05rem solid $white;
+  &:hover, &:focus {
+    color: #333;
+    text-shadow: none;
+    /* Prevent inheritance from `body` */
+    background-color: $white;
+    border: .05rem solid $white;
+  }
+}
+
+/*
+ * Base structure
+ */
+
+html, body {
+  font-family: $font-family-text;
+}
+
+body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  color: $black;
+  opacity: 1;
+  margin: 0;
+  @include transition (1s opacity);
+
+  @media (min-width: $m-bp) {
+    // background-color: $gray;
+    .hide-mobile {
+      display: block !important;
+    }
+  }
+
+  &.fade-out {
+    opacity: 0;
+    @include transition (1s opacity);
+  }
+
+  .hide-mobile {
+    display: none
+  }
+
+  .role-content {
+    display: block;
+    position: relative;
+    background-color: $lt-gray;
+  }
+
+  h1 {
+    font-weight: $font-weight-bold;
+    font-size: $font-size-xxx-large;
+  }
+
+  h2 {
+    font-size: $font-size-xx-large;
+  }
+
+  h3 {
+    font-size: $font-size-x-large;
+  }
+
+  p {
+    font-weight: $font-weight-light;
+    line-height: 1.5;
+    font-size: $font-size-regular;
+  }
+}
+
+.cover-container {
+  width: 70em;
+
+    .row-full {
+      width: 100vw;
+      position: relative;
+      margin-left: -50vw;
+      height: auto;
+      left: 50%;
+    }
+}
+
+/*
+ * Header
+ */
+header {
+  display: flex;
+  align-items: center;
+
+  .nav-logo {
+    max-width: 45px;
+  }
+
+  .nav {
+    margin-left: auto;
+    .nav-link {
+      padding: .25rem 0;
+      font-weight: 700;
+      color: rgba(46, 52, 59, 0.5);
+      text-decoration: none;
+      background-color: transparent;
+      &:hover, &:focus {
+        color: rgba(46, 52, 59, 1);
+      }
+      + .nav-link {
+        margin-left: 2rem;
+      }
+    }
+    .active {
+      color: #2E343B;
+    }
+  }
+}
+
+/*
+ * Body
+ */
+
+.project-thumbnail {
+  max-width: 100%;
+}
+
+/*
+ * Footer
+ */
+
+footer {
+  a {
+    text-decoration: none;
+  }
+}

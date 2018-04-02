@@ -1,0 +1,40 @@
+.btn {
+    position: relative;
+    display: inline-block;
+    padding: 2px 16px 3px;
+    text-align: center;
+    vertical-align: middle;
+    background: transparent;
+    background-clip: border-box;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-family: $font-family-text;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: .5px;
+    line-height: 30px;
+    text-decoration: none;
+    color: inherit;
+    white-space: nowrap;
+    -webkit-appearance: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    -webkit-transition: color 0.05s linear, background-color 0.05s linear;
+    -moz-transition: color 0.05s linear, background-color 0.05s linear;
+    -ms-transition: color 0.05s linear, background-color 0.05s linear;
+    -o-transition: color 0.05s linear, background-color 0.05s linear;
+    transition: color 0.05s linear, background-color 0.05s linear;
+}
+
+.btn.btn--brand {
+    border: 1px solid $blue;
+    background-color: $blue;
+    color: $white;
+
+    &:hover {
+    	background-color: #3844ca;
+    }
+}
