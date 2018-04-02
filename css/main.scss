@@ -91,6 +91,10 @@ body {
     font-size: $font-size-x-large;
   }
 
+  h4 {
+    font-weight: $font-weight-regular;
+  }
+
   p {
     font-weight: $font-weight-light;
     line-height: 1.5;
@@ -99,15 +103,13 @@ body {
 }
 
 .cover-container {
-  width: 70em;
+  width: 100em;
 
-    .row-full {
-      width: 100vw;
-      position: relative;
-      margin-left: -50vw;
-      height: auto;
-      left: 50%;
-    }
+  .body-container {
+    max-width: 70em;
+    margin: 0 auto;
+    padding: 0 32px;
+  }
 }
 
 /*
@@ -155,7 +157,15 @@ header {
  */
 
 footer {
+  background-color: $black;
+  color: $white;
+
   a {
     text-decoration: none;
+    color: $white;
+
+    &:hover {
+      color: $blue !important;
+    }
   }
 }

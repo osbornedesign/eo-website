@@ -1,5 +1,9 @@
 	  <footer>
-	  	<p><a href="mailto:ericosbornedesign@gmail.com?Subject=Hello!"> ericosbornedesign@gmail.com</a></p>
+	  	<div class="body-container p-16-0">
+		  	<h4>Contact:
+		  		<a href="mailto:ericosbornedesign@gmail.com?Subject=Hello!"> ericosbornedesign@gmail.com</a>
+		  	</h4>
+		  </div>
 	  </footer>
 	</div>
 	<!-- Bootstrap core JavaScript

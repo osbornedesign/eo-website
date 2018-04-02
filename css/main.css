@@ -73,6 +73,9 @@
 .m-64 {
   margin: 64px !important; }
 
+.m-16-32 {
+  margin: 32px 16px 32px 16px !important; }
+
 .m-x-0 {
   margin-left: 0 !important;
   margin-right: 0 !important; }
@@ -1353,8 +1356,8 @@
   transition: color 0.05s linear, background-color 0.05s linear; }
 
 .btn.btn--brand {
-  border: 1px solid #3F4DE9;
-  background-color: #3F4DE9;
+  border: 1px solid #2F86D9;
+  background-color: #2F86D9;
   color: #ffffff; }
   .btn.btn--brand:hover {
     background-color: #3844ca; }
@@ -1423,19 +1426,19 @@ body {
     font-size: 48px; }
   body h3 {
     font-size: 32px; }
+  body h4 {
+    font-weight: 400; }
   body p {
     font-weight: 200;
     line-height: 1.5;
     font-size: 18px; }
 
 .cover-container {
-  width: 70em; }
-  .cover-container .row-full {
-    width: 100vw;
-    position: relative;
-    margin-left: -50vw;
-    height: auto;
-    left: 50%; }
+  width: 100em; }
+  .cover-container .body-container {
+    max-width: 70em;
+    margin: 0 auto;
+    padding: 0 32px; }
 
 /*
  * Header
@@ -1469,7 +1472,13 @@ header {
 /*
  * Footer
  */
-footer a {
-  text-decoration: none; }
+footer {
+  background-color: #2E343B;
+  color: #ffffff; }
+  footer a {
+    text-decoration: none;
+    color: #ffffff; }
+    footer a:hover {
+      color: #2F86D9 !important; }
 
 /*# sourceMappingURL=main.css.map */
