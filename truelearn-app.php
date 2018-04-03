@@ -51,15 +51,9 @@
       </div>
 
   	  <div class="m-64-x-x-x row">
-  	    <div class="col-xs-12 col-md-6">
+  	    <div class="col-xs-12">
   	      <div class="p-x-16 m-16-x">
-            <img style="max-width: 100%;" src="img/tl-homepage.png">
-  	      </div>
-  	    </div>
-
-  	    <div class="col-xs-12 col-md-6">
-  	      <div class="p-x-16 m-16-x">
-  	        <img style="max-width: 100%;" src="img/tl-product-category.png">
+            <img style="max-width: 100%;" src="img/tl-app-gray.png">
   	      </div>
   	    </div>
   	  </div>
