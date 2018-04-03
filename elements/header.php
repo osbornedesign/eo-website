@@ -13,14 +13,12 @@
 	<body>
 		<script>document.body.className += ' fade-out';</script>
 		<div class="cover-container">
-			<div class="body-container">
-			  <header class="p-32-x  m-0-32">
-			      <a href="index.php">
-			      	<img src="img/eo-logo.svg" class="nav-logo" alt="Eric Osborne Design">
-			      </a>
-			      <nav class="nav">
-			        <a class="nav-link active" href="index.php">Work</a>
-			        <a class="nav-link" href="about.php">About</a>
-			      </nav>
-			  </header>
-			</div>
+		  <header class="body-container p-32-x">
+		      <a href="index.php">
+		      	<img src="img/eo-logo.svg" class="nav-logo" alt="Eric Osborne Design">
+		      </a>
+		      <nav class="nav">
+		        <a class="nav-link active" href="index.php">Work</a>
+		        <a class="nav-link" href="about.php">About</a>
+		      </nav>
+		  </header>
