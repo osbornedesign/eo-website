@@ -38,8 +38,7 @@
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
               <a href="bus-app-16.php">
-                <img class="project-thumbnail" src="img/teespring.png" />
-                <p>Dreamforce Bus App '16</p>
+                <img class="project-thumbnail" src="img/df-16-thumb.png" />
               </a>
             </div>
           </div>
@@ -47,8 +46,7 @@
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
               <a href="bus-app-17.php">
-                <img class="project-thumbnail" src="img/dropbox.png" />
-                <p>Dreamforce Bus App '17</p>
+                <img class="project-thumbnail" src="img/df-17-thumb.png" />
               </a>
             </div>
           </div>
@@ -56,8 +54,7 @@
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
               <a href="arcgis.php">
-                <img class="project-thumbnail" src="img/dropbox.png" />
-                <p>MapAnything for ArcGIS</p>
+                <img class="project-thumbnail" src="img/arc-thumb.png" />
               </a>
             </div>
           </div>
@@ -65,8 +62,7 @@
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
               <a href="mapything-fleet.php">
-                <img class="project-thumbnail" src="img/dropbox.png" />
-                <p>MapAnything Fleet</p>
+                <img class="project-thumbnail" src="img/fleet-thumb.png" />
               </a>
             </div>
           </div>
@@ -74,8 +70,7 @@
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
               <a href="aurora.php">
-                <img class="project-thumbnail" src="img/dropbox.png" />
-                <p>Aurora</p>
+                <img class="project-thumbnail" src="img/aurora-thumb.png" />
               </a>
             </div>
           </div>
@@ -83,8 +78,7 @@
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
               <a href="oneliance.php">
-                <img class="project-thumbnail" src="img/dropbox.png" />
-                <p>Oneliance Website</p>
+                <img class="project-thumbnail" src="img/oneliance-thumb.png" />
               </a>
             </div>
           </div>
