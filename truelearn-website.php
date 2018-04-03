@@ -4,7 +4,7 @@
   	<div class="m-32-x-x-x">
       <div class="m-x-x-64-x row">
         <div class="col-sm-12">
-          <img style="max-width: 100%;" src="img/tl-website-header-1.png">
+          <img src="img/tl-website-header-1.png">
         </div>
       </div>
 
@@ -53,13 +53,13 @@
   	  <div class="m-64-x-x-x row">
   	    <div class="col-xs-12 col-md-6">
   	      <div class="p-x-16 m-16-x">
-            <img style="max-width: 100%;" src="img/tl-homepage-1.png">
+            <img src="img/tl-homepage-1.png">
   	      </div>
   	    </div>
 
   	    <div class="col-xs-12 col-md-6">
   	      <div class="p-x-16 m-16-x">
-  	        <img style="max-width: 100%;" src="img/tl-product-category.png">
+  	        <img src="img/tl-product-category.png">
   	      </div>
   	    </div>
   	  </div>
@@ -79,7 +79,7 @@
       <div class="m-64-x-x-x row row-full">
         <div class="col-xs-12">
           <div class="m-16-x">
-            <img style="max-width: 100%;" src="img/tl-web-group.png">
+            <img src="img/tl-web-group.png">
           </div>
         </div>
       </div>
@@ -99,7 +99,7 @@
       <div class="m-64-x-x-x row row-full">
         <div class="col-xs-12">
           <div class="m-16-x">
-            <img style="max-width: 100%;" src="img/tl-homepage-foot.png">
+            <img src="img/tl-homepage-foot.png">
           </div>
         </div>
       </div>
@@ -118,13 +118,13 @@
       <div class="m-16-x-x-x row">
         <div class="col-xs-12 col-md-6">
           <div class="p-x-16 m-16-x">
-            <img style="max-width: 100%;" src="img/tl-homepage-wf.png">
+            <img src="img/tl-homepage-wf.png">
           </div>
         </div>
 
         <div class="col-xs-12 col-md-6">
           <div class="p-x-16 m-16-x">
-            <img style="max-width: 100%;" src="img/USMLE-Product_Page.png">
+            <img src="img/USMLE-Product_Page.png">
           </div>
         </div>
       </div>
@@ -133,54 +133,47 @@
         <div class="m-64-x-x-x row">
           <div class="col-sm-12">
             <div class="m-16-x">
-              <h3>Illustrations &amp; Animations</h3>
+              <h2>Illustrations &amp; Animations</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- <div class="m-16-x-x-x row-16">
-        <div class="col-xs-12">
-          <div class="p-x-16 m-16-x">
-            <video autoplay loop style="max-width: 100%">
-              <source src="img/hero-data-chart-sm.mp4" type="video/mp4">
-            Your browser does not support HTML5 video.
-            </video>
+      <div class="body-container">
+        <div class="m-16-x-x-x row">
+          <div class="col-xs-12 col-sm-6">
+            <div class="p-x-16 m-16-x">
+              <video autoplay loop>
+                <source src="img/students-residents.mp4" type="video/mp4">
+              Your browser does not support HTML5 video.
+              </video>
+            </div>
           </div>
-        </div>
-      </div> -->
-
-      <div class="m-16-x-x-x row">
-        <div class="col-xs-12 col-sm-6">
-          <div class="p-x-16 m-16-x">
-            <video autoplay loop style="max-width: 100%">
-              <source src="img/students-residents.mp4" type="video/mp4">
-            Your browser does not support HTML5 video.
-            </video>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6">
-          <div class="p-x-16 m-16-x">
-            <video autoplay loop style="max-width: 100%">
-              <source src="img/students-residents.mp4" type="video/mp4">
-            Your browser does not support HTML5 video.
-            </video>
+          <div class="col-xs-12 col-sm-6">
+            <div class="p-x-16 m-16-x">
+              <video autoplay loop>
+                <source src="img/students-residents.mp4" type="video/mp4">
+              Your browser does not support HTML5 video.
+              </video>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="m-16-x-x-x row">
-        <div class="col-xs-12">
-          <div class="p-x-16 m-16-x">
-            <video autoplay loop style="max-width: 100%">
-              <source src="img/tl-three-animation.mp4" type="video/mp4">
-            Your browser does not support HTML5 video.
-            </video>
+      <div class="body-container">
+        <div class="m-16-x-x-x row">
+          <div class="col-xs-12">
+            <div class="p-x-16 m-16-x">
+              <video autoplay loop>
+                <source src="img/tl-three-animation.mp4" type="video/mp4">
+              Your browser does not support HTML5 video.
+              </video>
+            </div>
           </div>
         </div>
       </div>
-  	
+    
     </div>
 
   </main>

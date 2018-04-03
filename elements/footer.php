@@ -1,5 +1,5 @@
 	  <footer class="full-width">
-	  	<div class="body-container p-16-0">
+	  	<div class="body-container p-16">
 		  	<h4>Contact:
 		  		<a href="mailto:ericosbornedesign@gmail.com?Subject=Hello!"> ericosbornedesign@gmail.com</a>
 		  	</h4>
