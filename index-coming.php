@@ -14,8 +14,8 @@
     <script>document.body.className += ' fade-out';</script>
     <div class="cover-container">
       <div class="body-container">
-        <header class="p-32-x  m-0-32">
-          <img src="img/logo-icon.png" class="nav-logo" alt="Eric Osborne Design">
+        <header class="p-32-x">
+          <img src="img/eo-logo.svg" class="nav-logo" alt="Eric Osborne Design">
         </header>
       </div>
 
