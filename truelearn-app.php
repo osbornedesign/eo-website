@@ -4,7 +4,7 @@
   	<div class="m-32-x-x-x">
       <div class="m-x-x-64-x row">
         <div class="col-sm-12">
-          <img src="img/tl-app-header-3.png">
+          <img src="img/tl-app-header.png">
         </div>
       </div>
 

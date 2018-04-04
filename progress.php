@@ -4,7 +4,7 @@
   	<div class="m-32-x-x-x">
       <div class="m-x-x-64-x row">
         <div class="col-sm-12">
-          <img src="img/progress-header.png">
+          <img src="img/progress-header-temp.png">
         </div>
       </div>
 

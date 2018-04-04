@@ -4,7 +4,7 @@
   	<div class="m-32-x-x-x">
       <div class="m-x-x-64-x row">
         <div class="col-sm-12">
-          <img src="img/progress-header.png">
+          <img src="img/bus-16-header.png">
         </div>
       </div>
 
@@ -74,6 +74,16 @@
           <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/df-16-lo.png">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="body-container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="p-x-16 m-16-x">
+              <img src="img/df-16-balsamiq.png">
             </div>
           </div>
         </div>

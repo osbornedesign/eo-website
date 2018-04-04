@@ -4,7 +4,7 @@
   	<div class="m-32-x-x-x">
       <div class="m-x-x-64-x row row-full">
         <div class="col-sm-12">
-          <img style="max-width: 100%;" src="img/progress-header.png">
+          <img style="max-width: 100%;" src="img/arcgis-header.png">
         </div>
       </div>
 

@@ -78,12 +78,10 @@
         </div>
       </div>
 
-      <div class="body-container">
-        <div class="m-64-x-x-x row row-full">
-          <div class="col-xs-12">
-            <div class="m-16-x">
-              <img src="img/tl-web-group.png">
-            </div>
+      <div class="m-64-x-x-x row">
+        <div class="col-xs-12">
+          <div class="m-16-x">
+            <img src="img/tl-web-group.png">
           </div>
         </div>
       </div>
@@ -100,12 +98,10 @@
         </div>
       </div>
 
-      <div class="body-container">
-        <div class="m-64-x-x-x row row-full">
-          <div class="col-xs-12">
-            <div class="m-16-x">
-              <img src="img/tl-homepage-foot.png">
-            </div>
+      <div class="m-64-x-x-x row">
+        <div class="col-xs-12">
+          <div class="m-16-x">
+            <img src="img/tl-homepage-foot.png">
           </div>
         </div>
       </div>
