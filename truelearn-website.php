@@ -101,6 +101,14 @@
       <div class="m-64-x-x-x row">
         <div class="col-xs-12">
           <div class="m-16-x">
+            <img src="img/tl-web-mobile.png">
+          </div>
+        </div>
+      </div>
+
+      <div class="m-64-x-x-x row">
+        <div class="col-xs-12">
+          <div class="m-16-x">
             <img src="img/tl-homepage-foot.png">
           </div>
         </div>
