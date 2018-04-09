@@ -41,7 +41,7 @@
         <div class="m-64-x-x-x row">
           <div class="col-sm-12">
             <div class="m-16-x">
-              <h3>Final Design</h3>
+              <h3>UI Design</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
             </div>
           </div>
@@ -49,18 +49,14 @@
       </div>
 
       <div class="body-container">
-    	  <div class="m-64-x-x-x row">
-    	    <div class="col-xs-12">
-    	      <div class="p-x-16 m-16-x">
-              <img src="img/aurora-1.jpg">
-    	      </div>
-    	    </div>
-    	  </div>
-      </div>
-
-      <div class="body-container">
         <div class="m-64-x-x-x row">
-          <div class="col-xs-12">
+          <div class="col-xs-12 col-md-6">
+            <div class="p-x-16 m-16-x">
+              <img src="img/aurora-1.jpg">
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-md-6">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-2.png">
             </div>
@@ -69,8 +65,8 @@
       </div>
 
       <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-xs-12">
+        <div class="row">
+          <div class="col-xs-12 col-md-6">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-3.jpg">
             </div>
@@ -79,20 +75,15 @@
       </div>
 
       <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-xs-12">
-            <div class="p-x-16 m-16-x">
-              <img src="img/aurora-4.jpg">
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-xs-12">
+        <div class="row">
+          <div class="col-xs-12 col-md-6">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-5.jpg">
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <div class="p-x-16 m-16-x">
+              <img src="img/aurora-4.jpg">
             </div>
           </div>
         </div>
@@ -125,17 +116,17 @@
         </div>
       </div>
 
-      <div class="body-container m-0-0-64-0">
+      <div class="body-container">
         <div class="m-16-x-x-x row">
           <div class="col-xs-12 col-sm-6">
             <div class="p-x-16 m-16-x">
-              <img src="img/aurora-wf-3.png">
+              <img src="img/aurora-wf-1.png">
             </div>
           </div>
 
           <div class="col-xs-12 col-sm-6">
             <div class="p-x-16 m-16-x">
-              <img src="img/aurora-wf-4.png">
+              <img src="img/aurora-wf-2.png">
             </div>
           </div>
         </div>

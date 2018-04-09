@@ -38,7 +38,7 @@
         <div class="m-64-x-x-x row">
           <div class="col-sm-12">
             <div class="m-16-x">
-              <h3>Final Design</h3>
+              <h3>UI Design</h3>
               <p>For any design project, determining the proper visual language is crucial. I started the homepage redesign for Expii by looking at the existing style library and make conscious changes that better advance user experience, facilitate the company to more effectively convey intended messages to the users, while still maintaining the overall look and feel of the whole ecosystem.</p>
             </div>
           </div>

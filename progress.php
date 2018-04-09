@@ -38,7 +38,7 @@
         <div class="m-64-x-x-x row">
           <div class="col-sm-12">
             <div class="m-16-x">
-              <h3>Final Design</h3>
+              <h3>UI Design</h3>
               <p>For any design project, determining the proper visual language is crucial. I started the homepage redesign for Expii by looking at the existing style library and make conscious changes that better advance user experience, facilitate the company to more effectively convey intended messages to the users, while still maintaining the overall look and feel of the whole ecosystem.</p>
             </div>
           </div>
@@ -49,7 +49,7 @@
     	  <div class="m-64-x-x-x row">
     	    <div class="col-xs-12 col-md-6">
     	      <div class="p-x-16 m-16-x">
-              <img src="img/progress-phases.png">
+              <img src="img/projects-table.png">
     	      </div>
     	    </div>
 
@@ -60,6 +60,22 @@
     	    </div>
     	  </div>
       </div>
+
+        <div class="body-container">
+          <div class="row">
+            <div class="col-xs-12 col-md-6">
+              <div class="p-x-16 m-16-x">
+                <img src="img/progress-phases.png">
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-md-6">
+              <div class="p-x-16 m-16-x">
+                <img src="img/progress-branding.png">
+              </div>
+            </div>
+          </div>
+        </div>
 
       <div class="body-container">
         <div class="m-64-x-x-x row">
@@ -77,47 +93,6 @@
         <div class="col-xs-12">
           <div class="m-16-x">
             <img src="img/progress-header.png">
-          </div>
-        </div>
-      </div>
-
-      <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-sm-12">
-            <div class="m-16-x">
-              <h3>Wireframes</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="body-container">
-        <div class="m-16-x-x-x row">
-          <div class="col-xs-12">
-            <div class="m-16-x">
-              <img src="img/progress-wf-1.png">
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-sm-12">
-            <div class="m-16-x">
-              <h3>Demo Video</h3>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="body-container">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="video-wrapper m-16-x">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/6yPfcx_B4HA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            </div>
           </div>
         </div>
       </div>
