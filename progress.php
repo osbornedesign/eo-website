@@ -61,38 +61,18 @@
     	  </div>
       </div>
 
-        <div class="body-container">
-          <div class="row">
-            <div class="col-xs-12 col-md-6">
-              <div class="p-x-16 m-16-x">
-                <img src="img/progress-phases.png">
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-md-6">
-              <div class="p-x-16 m-16-x">
-                <img src="img/progress-branding.png">
-              </div>
-            </div>
-          </div>
-        </div>
-
       <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-sm-12">
-            <div class="m-16-x">
-              <h3>Strike a First Impression</h3>
-              <p>During the redesign process, a lot of thoughts have been put into designing the landing page. I have run through multiple rounds of iterations first using carousel featuring images of our target audience (middle to high school students). However, soon we realized that stock images about students learning cannot convey the "personal learning revolution" message that Expii wants to convey.</p>
-              <p>I ended up using an abstract approach to demonstrate that learning is never a linear path. It is like molecules or stars in a universe. There are infinite possibilities and linkages between knowledge.</p>
+        <div class="row">
+          <div class="col-xs-12 col-md-6">
+            <div class="p-x-16 m-16-x">
+              <img src="img/progress-phases.png">
             </div>
           </div>
-        </div>
-      </div>
 
-      <div class="m-64-x-x-x row">
-        <div class="col-xs-12">
-          <div class="m-16-x">
-            <img src="img/progress-header.png">
+          <div class="col-xs-12 col-md-6">
+            <div class="p-x-16 m-16-x">
+              <img src="img/progress-branding.png">
+            </div>
           </div>
         </div>
       </div>
