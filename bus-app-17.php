@@ -57,27 +57,6 @@
     	    </div>
     	  </div>
       </div>
-
-      <div class="body-container">
-        <div class="m-64-x-x-x row">
-          <div class="col-sm-12">
-            <div class="m-16-x">
-              <h2>Wireframes</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="body-container">
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="p-x-16 m-16-x">
-              <img src="img/df-16-lo.png">
-            </div>
-          </div>
-        </div>
-      </div>
     
     </div>
 
