@@ -46,7 +46,7 @@
       </div>
 
       <div class="body-container">
-        <div class="m-64-x-x-x row">
+        <div class="m-32-x-x-x row">
           <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/fleet-1.png">
@@ -56,10 +56,40 @@
       </div>
 
       <div class="body-container">
-        <div class="m-64-x-x-x row">
+        <div class="m-16-x-x-x row">
           <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/fleet-2.png">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="body-container">
+        <div class="m-16-x-x-x row">
+          <div class="col-xs-12">
+            <div class="p-x-16 m-16-x">
+              <img src="img/fleet-3.png">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="body-container">
+        <div class="m-16-x-x-x row">
+          <div class="col-xs-12">
+            <div class="p-x-16 m-16-x">
+              <img src="img/fleet-4.png">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="body-container m-x-x-64-x">
+        <div class="m-16-x-x-x row">
+          <div class="col-xs-12">
+            <div class="p-x-16 m-16-x">
+              <img src="img/fleet-5.png">
             </div>
           </div>
         </div>

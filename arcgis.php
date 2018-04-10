@@ -47,13 +47,13 @@
 
       <div class="body-container">
         <div class="m-64-x-x-x row">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/arcgis-1.png">
             </div>
           </div>
 
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/arcgis-2.png">
             </div>
@@ -61,15 +61,15 @@
         </div>
       </div>
 
-      <div class="body-container">
+      <div class="body-container m-x-x-64-x">
         <div class="row">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/arcgis-3.png">
             </div>
           </div>
 
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/arcgis-4.png">
             </div>

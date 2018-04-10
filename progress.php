@@ -47,13 +47,13 @@
 
       <div class="body-container">
     	  <div class="m-64-x-x-x row">
-    	    <div class="col-xs-12 col-md-6">
+    	    <div class="col-xs-12">
     	      <div class="p-x-16 m-16-x">
               <img src="img/projects-table.png">
     	      </div>
     	    </div>
 
-    	    <div class="col-xs-12 col-md-6">
+    	    <div class="col-xs-12">
     	      <div class="p-x-16 m-16-x">
     	        <img src="img/progress-details.png">
     	      </div>
@@ -61,15 +61,15 @@
     	  </div>
       </div>
 
-      <div class="body-container">
+      <div class="body-container  m-x-x-64-x">
         <div class="row">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/progress-phases.png">
             </div>
           </div>
 
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/progress-branding.png">
             </div>

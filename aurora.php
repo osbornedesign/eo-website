@@ -50,13 +50,13 @@
 
       <div class="body-container">
         <div class="m-64-x-x-x row">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-1.jpg">
             </div>
           </div>
 
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-2.png">
             </div>
@@ -66,7 +66,7 @@
 
       <div class="body-container">
         <div class="row">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-3.jpg">
             </div>
@@ -76,12 +76,12 @@
 
       <div class="body-container">
         <div class="row">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-5.jpg">
             </div>
           </div>
-          <div class="col-xs-12 col-md-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <img src="img/aurora-4.jpg">
             </div>
@@ -116,7 +116,7 @@
         </div>
       </div>
 
-      <div class="body-container">
+      <div class="body-container m-x-x-64-x">
         <div class="m-16-x-x-x row">
           <div class="col-xs-12 col-sm-6">
             <div class="p-x-16 m-16-x">
