@@ -13,7 +13,7 @@
 	<body>
 		<script>document.body.className += ' fade-out';</script>
 		<div class="cover-container">
-		  <header class="body-container p-32-x">
+		  <header class="p-32-x" id="navbar">
 		      <a href="index.php">
 		      	<img src="img/eo-logo.svg" class="nav-logo" alt="Eric Osborne Design">
 		      </a>

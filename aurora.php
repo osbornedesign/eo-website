@@ -20,11 +20,11 @@
 
       <div class="body-container">
         <div class="row">
-          <div class="col-md-12 col-lg-8">
+<!--           <div class="col-md-12 col-lg-8">
             <div class="p-0-32-0-0">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
             </div>
-          </div>
+          </div> -->
           <div class="col-md-12 col-lg-4">
             <div class="m-16-x p-32 role-content">
               <p class="m-x-x-16-x"><strong>Role:</strong> UX and UI Design, Vision and Strategy, Creative Direction, Branding</p>
@@ -42,7 +42,7 @@
           <div class="col-sm-12">
             <div class="m-16-x">
               <h3>UI Design</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
+<!--               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p> -->
             </div>
           </div>
         </div>
@@ -94,7 +94,7 @@
           <div class="col-sm-12">
             <div class="m-16-x">
               <h3>Wireframes</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p>
+<!--               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo sem ac ipsum sagittis, et venenatis magna aliquam. Fusce in tortor diam. Mauris fermentum augue nec facilisis aliquam. Suspendisse lobortis feugiat rhoncus. Aliquam felis ipsum, consequat vulputate diam sit amet, posuere varius nibh. Mauris ex metus, rhoncus ac ex non, luctus sagittis arcu. Nunc faucibus neque ac pellentesque vestibulum. Quisque sed tristique metus. Nam eleifend suscipit varius. Donec non tempus libero, et laoreet urna. Proin sed mattis ligula.</p> -->
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 <?php include 'elements/header.php'; ?>
 
-  <main class="m-x-x-32-x">
+  <main class="m-x-x-32-x content">
     <div class="body-container">
       <div class="row">
         <div class="m-32-x-x-x">

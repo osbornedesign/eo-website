@@ -16,5 +16,29 @@
 	    	    $('body').removeClass('fade-out');
 	    });
 	</script>
+
+	<script>
+	window.onscroll = function() {myFunction()};
+
+	var navbar = document.getElementById("navbar");
+	var sticky = navbar.offsetTop;
+
+	// function myFunction() {
+	//   if (window.pageYOffset >= sticky) {
+	//     navbar.classList.add("sticky")
+	//   } else {
+	//     navbar.classList.remove("sticky");
+	//   }
+	// }
+
+	$(window).bind('scroll', function () {
+	    if ($(window).scrollTop() > 12) {
+	        navbar.classList.add("sticky")
+	    } else {
+	        navbar.classList.remove('sticky');
+	    }
+	});
+	</script>
+
 	</body>
 </html>
