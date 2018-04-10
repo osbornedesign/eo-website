@@ -58,13 +58,6 @@ body {
 
   @include transition (1s opacity);
 
-  @media (min-width: $m-bp) {
-    // background-color: $gray;
-    .hide-mobile {
-      display: block !important;
-    }
-  }
-
   &.fade-out {
     opacity: 0;
     @include transition (1s opacity);
@@ -82,15 +75,15 @@ body {
 
   h1 {
     font-weight: $font-weight-bold;
-    font-size: $font-size-xxx-large;
+    font-size: $font-size-x-large;
   }
 
   h2 {
-    font-size: $font-size-xx-large;
+    font-size: $font-size-large;
   }
 
   h3 {
-    font-size: $font-size-x-large;
+    font-size: $font-size-regular;
   }
 
   h4 {
@@ -208,3 +201,28 @@ footer {
     }
   }
 }
+
+
+@media (min-width: $s-bp) {
+    h1 {
+      font-size: $font-size-xx-large !important;
+    }
+
+    h2 {
+      font-size: $font-size-xx-large !important;
+    }
+
+    h3 {
+      font-size: $font-size-x-large !important;
+    }
+
+    h4 {
+      font-weight: $font-weight-regular;
+    }
+
+    p {
+      font-weight: $font-weight-light;
+      line-height: 1.5;
+      font-size: $font-size-regular;
+    }
+  }

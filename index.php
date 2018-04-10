@@ -4,11 +4,11 @@
     <div class="body-container">
       <div class="row">
         <div class="m-32-x-x-x">
-          <h2>I'm Eric Osborne, a product designer based out of Charlotte, NC.</h2>
+          <h1>I'm Eric Osborne, a product designer based out of Charlotte, NC.</h1>
         </div>
       </div>
 
-      <div class="m-64-x-x-x">
+      <div class="m-32-x-x-x">
         <div class="row-16">
 
           <div class="col-xs-6 col-md-4">

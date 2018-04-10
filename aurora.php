@@ -27,8 +27,8 @@
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="m-16-x p-32 role-content">
-              <p class="m-x-x-16-x"><strong>Role:</strong> Vision and strategy, creative direction, UX and visual design, team management</p>
-              <p class="m-x-x-16-x"><strong>Tools used:</strong> Adobe XD, Illustrator, Invision, After Effects</p>
+              <p class="m-x-x-16-x"><strong>Role:</strong> UX and UI Design, Vision and Strategy, Creative Direction, Branding</p>
+              <p class="m-x-x-16-x"><strong>Tools used:</strong> Adobe XD, Illustrator, Invision</p>
               <!-- <button class="btn btn--brand">
                 <a href="www.truelearn.com" target="_blank" style="color: #fff; text-decoration: none;">Visit the Website</a>
               </button> -->
