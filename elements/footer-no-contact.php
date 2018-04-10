@@ -1,10 +1,3 @@
-	  <footer>
-	  	<div class="body-container p-16">
-		  	<h4>
-		  		<a href="mailto:ericosbornedesign@gmail.com?Subject=Hello!"> ericosbornedesign@gmail.com</a>
-		  	</h4>
-		  </div>
-	  </footer>
 	</div>
 	<!-- Bootstrap core JavaScript
 	================================================== -->
