@@ -13,7 +13,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="truelearn-website.php">
+              <a href="truelearn-website">
                 <img class="project-thumbnail" src="img/tl-web-thumb.png" />
               </a>
             </div>
@@ -21,7 +21,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="truelearn-app.php">
+              <a href="truelearn-app">
                 <img class="project-thumbnail" src="img/tl-app-thumb.png" />
               </a>
             </div>
@@ -29,7 +29,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="progress.php">
+              <a href="progress">
                 <img class="project-thumbnail" src="img/progress-thumb.png" />
               </a>
             </div>
@@ -37,7 +37,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="bus-app-16.php">
+              <a href="bus-app-16">
                 <img class="project-thumbnail" src="img/df-16-thumb.png" />
               </a>
             </div>
@@ -45,7 +45,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="bus-app-17.php">
+              <a href="bus-app-17">
                 <img class="project-thumbnail" src="img/df-17-thumb.png" />
               </a>
             </div>
@@ -53,7 +53,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="mapything-fleet.php">
+              <a href="mapything-fleet">
                 <img class="project-thumbnail" src="img/fleet-thumb.png" />
               </a>
             </div>
@@ -61,7 +61,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="arcgis.php">
+              <a href="arcgis">
                 <img class="project-thumbnail" src="img/arc-thumb.png" />
               </a>
             </div>
@@ -69,7 +69,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="aurora.php">
+              <a href="aurora">
                 <img class="project-thumbnail" src="img/aurora-thumb.png" />
               </a>
             </div>
@@ -77,7 +77,7 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
-              <a href="oneliance.php">
+              <a href="oneliance">
                 <img class="project-thumbnail" src="img/oneliance-thumb.png" />
               </a>
             </div>

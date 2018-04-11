@@ -29,9 +29,9 @@
             <div class="m-16-x p-32 role-content">
               <p class="m-x-x-16-x"><strong>Role:</strong> UX and UI Design, Creative Direction</p>
               <p class="m-x-x-16-x"><strong>Tools used:</strong> Adobe XD, Illustrator, Invision, After Effects</p>
-              <button class="btn btn--brand">
+<!--               <button class="btn btn--brand">
                 <a href="www.truelearn.com" target="_blank" style="color: #fff; text-decoration: none;">Visit the Website</a>
-              </button>
+              </button> -->
             </div>
           </div>
         </div>
@@ -152,7 +152,7 @@
 
       <div class="body-container">
         <div class="m-16-x-x-x row">
-          <div class="col-xs-12 col-sm-6">
+          <div class="col-xs-12">
             <div class="p-x-16 m-16-x">
               <video autoplay loop>
                 <source src="img/students-residents.mp4" type="video/mp4">
@@ -160,14 +160,14 @@
               </video>
             </div>
           </div>
-          <div class="col-xs-12 col-sm-6">
+<!--           <div class="col-xs-12 col-sm-6">
             <div class="p-x-16 m-16-x">
               <video autoplay loop>
                 <source src="img/students-residents.mp4" type="video/mp4">
               Your browser does not support HTML5 video.
               </video>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
 

@@ -18,7 +18,7 @@
 		      	<img src="img/eo-logo.svg" class="nav-logo" alt="Eric Osborne Design">
 		      </a>
 		      <nav class="nav">
-		        <a class="nav-link active" href="/">Work</a>
-		        <a class="nav-link" href="about">About</a>
+		        <a class="nav-link" href="/">Work</a>
+		        <a class="nav-link active" href="about">About</a>
 		      </nav>
 		  </header>
