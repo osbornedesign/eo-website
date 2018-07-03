@@ -53,6 +53,14 @@
 
           <div class="col-xs-6 col-md-4">
             <div class="p-x-16 m-16-x">
+              <a href="truelearn-dashboard">
+                <img class="project-thumbnail" src="img/tl-dash-thumb.png" />
+              </a>
+            </div>
+          </div>
+
+          <div class="col-xs-6 col-md-4">
+            <div class="p-x-16 m-16-x">
               <a href="mapything-fleet">
                 <img class="project-thumbnail" src="img/fleet-thumb.png" />
               </a>
